@@ -9,7 +9,7 @@
     "geom:bbox":"-81.38255,28.252176,-80.4686,29.17125",
     "geom:latitude":28.740658,
     "geom:longitude":-80.871386,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2686080747.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 14",
     "uscensus:sldust":"014",
     "uscensus:statefp":"12",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688651
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486266,
     "wof:geomhash":"050b5523f531606eeb67cee1e3bdeb2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688651
+        }
+    ],
     "wof:id":1108763121,
     "wof:lastmodified":1481486266,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688651,
     "wof:repo":"whosonfirst-data-constituency-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

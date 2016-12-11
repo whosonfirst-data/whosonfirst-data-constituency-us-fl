@@ -9,7 +9,7 @@
     "geom:bbox":"-81.84872,30.188624,-81.55169,30.460315",
     "geom:latitude":30.32645,
     "geom:longitude":-81.69834,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":558970608.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 6",
     "uscensus:sldust":"006",
     "uscensus:statefp":"12",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688651
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486264,
     "wof:geomhash":"59cfe6abe9c30a39de36ae1556649647",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688651
+        }
+    ],
     "wof:id":1108763103,
     "wof:lastmodified":1481486264,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688651,
     "wof:repo":"whosonfirst-data-constituency-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-82.908909,27.795703,-82.72853,28.019107",
     "geom:latitude":27.910793,
     "geom:longitude":-82.831104,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":103635052.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 66",
     "uscensus:sldlst":"066",
     "uscensus:statefp":"12",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688651
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486242,
     "wof:geomhash":"6bb01df6fb6d086d8e01fc9c41fa8eb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688651
+        }
+    ],
     "wof:id":1108762969,
     "wof:lastmodified":1481486242,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688651,
     "wof:repo":"whosonfirst-data-constituency-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

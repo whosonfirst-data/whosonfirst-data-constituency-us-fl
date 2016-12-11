@@ -9,7 +9,7 @@
     "geom:bbox":"-81.31086,28.509988,-81.12026,28.612535",
     "geom:latitude":28.569777,
     "geom:longitude":-81.221305,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":146132951.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 49",
     "uscensus:sldlst":"049",
     "uscensus:statefp":"12",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688651
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486234,
     "wof:geomhash":"f3c51bd65662e4341295493d65229dfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688651
+        }
+    ],
     "wof:id":1108762931,
     "wof:lastmodified":1481486234,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688651,
     "wof:repo":"whosonfirst-data-constituency-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
